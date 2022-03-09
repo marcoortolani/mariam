@@ -1,0 +1,2 @@
+spacy==2.3.7
+spacy_readability==1.4.1
